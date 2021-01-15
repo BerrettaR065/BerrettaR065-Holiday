@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* Holiday Website CSS Document */
+
+body {
+    background-color: #F33B3E;
+}
+title {
+    color: #00780D;
+    font-weight: 900;
+}
+h1 {
+    font-weight: 500;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    color: #00780D;
+}
+h2 {
+    color: #00780D;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: 400;
+}
+#wrapper {
+    background-color: #FFFFFF;
+    margin: auto;
+    width: 1200px;
+}
+#main {
+    background-color: #ED6C6E;
+}
+#footer {
+    background-color: #17D00F;
+    text-align: center;
+    width: 1200px;
+}
+#banner {
+    width: 1200px;
+}
