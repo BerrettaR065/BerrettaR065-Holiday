@@ -4,6 +4,12 @@
 body {
     background-color: #F33B3E;
 }
+.imgLeft {
+    margin: 10;
+    float: left;
+    border: 1px solid #000000;
+}
+
 title {
     color: #00780D;
     font-weight: 900;
